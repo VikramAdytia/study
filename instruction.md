@@ -119,11 +119,11 @@ _______________
 
     git checkout -m any
 
- place for branching
+ zozozozozozozozozo
 
     v
     na 
     i 
     dot
     
- end place for branching 
+ zozozozozozozozozozoz
